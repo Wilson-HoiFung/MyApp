@@ -130,6 +130,7 @@ body {
 
 .david {
   width: 160px;
+  padding: 8px;
 }
 
 .cover {
@@ -327,6 +328,7 @@ h3 {
 
 .chow {
   width: 50px;
+  padding: 4px;
 }
 
 .nameT {
